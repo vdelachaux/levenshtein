@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="levenshtein" uuid="4E48D0DE6AB14E10B4D019579244B9CF" collation_locale="fr">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra __stringCompHash="icu:68.1.0" __keywordBuildingHash="icu:68.1.0" package_name="Levenshtein2" structure_file_name="Levenshtein2" data_file_path=":Levenshtein2.4DD">
+		<temp_folder folder_selector="data"/>
+		<journal_file journal_file_enabled="false"/>
+	</base_extra>
+</base>

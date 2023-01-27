@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="6">
+	<com.4d>
+		<web>
+			<standalone_server>
+				<configuration automatic_session_management="true" session_mode="3"/>
+			</standalone_server>
+			<remote>
+				<configuration automatic_session_management="true" session_mode="3"/>
+			</remote>
+		</web>
+		<database>
+			<misc standard_xpath="true"/>
+			<cache/>
+		</database>
+		<server>
+			<network>
+				<client_server/>
+				<options publication_name="levenshtein" use_legacy_network_layer="false"/>
+			</network>
+		</server>
+		<compiler>
+			<options compilation_path="3" error_file="true" symbol_file="true" syntax_file="true" target="all"/>
+			<typage default_for_button="2"/>
+			<method_suffix arrays="" interprocess_arrays="" interprocess_variables="" methods="" variables=""/>
+		</compiler>
+	</com.4d>
+</preferences>
